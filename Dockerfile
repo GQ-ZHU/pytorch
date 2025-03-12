@@ -1,4 +1,3 @@
-#tag:latest
 FROM pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
 
 # 更新系统库，安装常用工具
